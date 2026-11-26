@@ -734,7 +734,7 @@ function HomeScreen({
   return (
     <div style={{ display: "flex", flexDirection: "column", gap: 0, padding: 0 }}>
       <div style={{ position: "relative" }}>
-        <img src="https://i.imgur.com/aMuo40R.jpeg" alt="Serviços gov.br" style={imgStyle} />
+        <img src="https://i.imgur.com/D93ChtH.jpeg" alt="Serviços gov.br" style={imgStyle} />
         <button
           aria-label="Abrir carteira de documentos"
           onClick={() => navigate("carteira")}
