@@ -769,7 +769,7 @@ function CarteiraScreen({
   return (
     <div style={{ height: "calc(100vh - 72px)", position: "relative", overflow: "hidden" }}>
       <img
-        src="https://i.imgur.com/D93ChtH.jpeg"
+        src="https://i.imgur.com/bfvUjgJ.jpeg"
         alt="Carteira de documentos"
         style={{
           width: "100%",
