@@ -734,7 +734,7 @@ function HomeScreen({
   return (
     <div style={{ display: "flex", flexDirection: "column", gap: 0, padding: 0 }}>
       <div style={{ position: "relative" }}>
-        <img src="https://i.imgur.com/D93ChtH.jpeg" alt="Serviços gov.br" style={imgStyle} />
+        <img src="https://i.imgur.com/6crNt6s.jpeg" alt="Serviços gov.br" style={imgStyle} />
         <button
           aria-label="Abrir carteira de documentos"
           onClick={() => navigate("carteira")}
@@ -769,7 +769,7 @@ function CarteiraScreen({
   return (
     <div style={{ height: "calc(100vh - 72px)", position: "relative", overflow: "hidden" }}>
       <img
-        src="https://i.imgur.com/bfvUjgJ.jpeg"
+        src="https://i.imgur.com/D93ChtH.jpeg"
         alt="Carteira de documentos"
         style={{
           width: "100%",
